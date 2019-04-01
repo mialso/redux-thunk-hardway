@@ -1,5 +1,7 @@
 #### redux thunk hardway
 
+thunk is action delayed - thunk-action data calculation happens after state is updated by action
+
 ##### difference with original redux-thunk
 
 * delayed execution - the thunk is executed after reducer produce new state
